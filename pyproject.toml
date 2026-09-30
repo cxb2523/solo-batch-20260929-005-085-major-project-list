@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cryptocmd"
+version = "0.7.0"
+description = "Resident cryptocurrency history collection: single-flight fetch, retries, transactional storage and /status dashboard"
+readme = "README-cryptocmd.md"
+requires-python = ">=3.9"
+dependencies = ["requests"]
+
+[project.optional-dependencies]
+dataframe = ["pandas"]
+test = ["pytest"]
+
+[project.scripts]
+cryptocmd-health = "cryptocmd.health:main"
+
+[tool.setuptools]
+packages = ["cryptocmd"]
+
+[tool.setuptools.package-data]
+cryptocmd = ["fiat_ids.json"]
