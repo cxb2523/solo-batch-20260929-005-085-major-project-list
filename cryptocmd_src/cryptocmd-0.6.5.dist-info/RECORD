@@ -1,0 +1,9 @@
+cryptocmd/__init__.py,sha256=8AWP8WB4temWsY_4lmFFdunrYLeYRTRbOnqi77K9NOY,73
+cryptocmd/__version__.py,sha256=KDgkBrBsBSUzbLgrOZ89YsNN06fU4j5bmcuEwo6q5pg,22
+cryptocmd/core.py,sha256=-J94nh03AucoA8ZUC4rl8PM1Lagq5XUs9SoIn_y_hlw,9092
+cryptocmd/fiat_ids.json,sha256=y_ppUAtI9rpay-GiTjlqJYWziNCcVxiC_XdivzIv3PM,708
+cryptocmd/utils.py,sha256=lYYNdDXKbDXRHkSX3YmuQrcOQAe41D0lJcN1Ci0K_JY,7126
+cryptocmd-0.6.5.dist-info/METADATA,sha256=yqGLgH7XoHlL4Od8rC57dsSDTcAFZ4fJzbyDkCI2CiY,4651
+cryptocmd-0.6.5.dist-info/WHEEL,sha256=QccIxa26bgl1E6uMy58deGWi-0aeIkkangHcxk2kWfw,87
+cryptocmd-0.6.5.dist-info/licenses/LICENSE,sha256=K8ljpSOjPXectucxA2rP97IOIFrZ4Hl0Ob9PB89y88Q,1511
+cryptocmd-0.6.5.dist-info/RECORD,,
